@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=java -jar /usr/bin/SmartCalc3.jar
+Icon=application-x-executable
+Terminal=false
+Name=SmartCalc3
+Name[ru]=SmartCalc 3.0

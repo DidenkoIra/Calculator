@@ -1,0 +1,56 @@
+.root {
+    -fx-background-color: black;
+}
+
+.menu-bar,
+.menu-button,
+.menu-item,
+.menu-showing{
+    -fx-background-color: black;
+}
+
+.button {
+     -fx-background-color: dimgray;
+ }
+
+ .combo-box {
+     -fx-background-color: dimgray;
+ }
+
+
+.label {
+    -fx-text-fill: silver;
+}
+
+.text-field {
+     -fx-background-color: silver;
+     -fx-alignment: center-right;
+ }
+
+#buttonAC {
+    -fx-background-color: tomato;
+}
+
+#buttonEq {
+    -fx-background-color: darkseagreen;
+}
+
+#buttonGraph {
+    -fx-background-color: lemonchiffon;
+}
+
+#xField {
+    -fx-font-size: 18;
+}
+
+#expressionField {
+    -fx-alignment: center-right;
+    -fx-background-color: silver;
+}
+
+#labelResult {
+    -fx-font-size: 35;
+    -fx-font-weight: bold;
+    -fx-text-fill: silver;
+    -fx-alignment: center-right;
+}
